@@ -103,7 +103,7 @@ color to match their subway lines ie blue for E, red for 1 */
     font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
     font-size: 50px;
     font-weight: 400;
-    line-height:100px ;
+    line-height: 100px;
     margin: 0;
     outline: none;
     position: center;
@@ -227,6 +227,7 @@ color to match their subway lines ie blue for E, red for 1 */
     text-align: center
 }
 
+/* this is the code for the design of the buttons Q2 and the link button */
 .button-7 {
     background-color: #07c;
     border: 1px solid transparent;

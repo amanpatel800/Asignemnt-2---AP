@@ -15,7 +15,7 @@ $(document).ready(function () {
         }
     });
 
-// this section handles Q2
+    // this section handles Q2
     $('button[role^="button"]').on('click', function () {
         var role = $(this).attr('role');
         switch (role) {
@@ -33,7 +33,7 @@ $(document).ready(function () {
         }
     });
 
-// button code for MTA map link
+    // button code for MTA map link
     $('button[role="map"]').on('click', function () {
         var url = "https://new.mta.info/map/5341"
         window.location.href = url;
